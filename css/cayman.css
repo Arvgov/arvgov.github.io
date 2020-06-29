@@ -21,10 +21,11 @@ li.nav-link{
 
 ul.nav-list{
   background-color: #159957;
+  color: white;
 }
 
 .navigation{
-  color: white;
+  background-color: #159957;
 }
 .btn {
   display: inline-block;
