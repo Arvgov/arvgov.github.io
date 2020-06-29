@@ -19,7 +19,9 @@ a.nav-link{
   color: white;
   text-align: center;
   font-size: 18px;
-  padding: 14px 30px;
+  padding: 18px 30px;
+  position: relative;
+  top: -250px;
 }
 a.nav-link:hover{
   text-decoration: none;
