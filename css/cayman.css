@@ -18,6 +18,18 @@ a {
 li.nav-link{
     display: inline;  
 }
+
+ul.nav-list{
+  background-color: #159957;
+}
+
+.navigation{
+  color: white;
+  a:hover{
+    text-decoration: none;
+  }
+
+}
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
