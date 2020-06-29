@@ -20,8 +20,6 @@ a.nav-link{
   text-align: center;
   font-size: 18px;
   padding: 18px 30px;
-  position: relative;
-  top: -250px;
 }
 a.nav-link:hover{
   text-decoration: none;
