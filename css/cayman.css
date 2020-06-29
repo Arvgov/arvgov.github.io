@@ -14,7 +14,7 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-
+  
 li.nav-link{
     display: inline;  
 }
@@ -25,10 +25,6 @@ ul.nav-list{
 
 .navigation{
   color: white;
-  a:hover{
-    text-decoration: none;
-  }
-
 }
 .btn {
   display: inline-block;
