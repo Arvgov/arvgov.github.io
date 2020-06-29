@@ -14,16 +14,20 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-  
+
+a.nav-link{
+  color: white;
+}
+a.nav-link:hover{
+  text-decoration: none;
+}
 li.nav-link{
     display: inline;  
 }
-
 ul.nav-list{
   background-color: #159957;
-  color: white;
+  margin: 0px;
 }
-
 .navigation{
   background-color: #159957;
 }
